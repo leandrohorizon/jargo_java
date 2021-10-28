@@ -1,0 +1,1 @@
+java -jar "Jargo ex.jar"
